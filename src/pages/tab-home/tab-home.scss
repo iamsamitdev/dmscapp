@@ -1,0 +1,27 @@
+page-tab-home {
+    ion-slides
+    {
+        height: 30vh;
+    }
+
+    ion-slide  img
+    {
+        min-width: 100%;
+    }
+
+    .col{
+        height: 150px;
+        background-color: green;
+        margin: 5px;
+        text-align: center;
+        padding-top: 20px;
+        color: white;
+        font-size: 20px;
+        border-radius: 10px;
+    }
+
+    ion-icon{
+        font-size: 50px;
+    }
+
+}
